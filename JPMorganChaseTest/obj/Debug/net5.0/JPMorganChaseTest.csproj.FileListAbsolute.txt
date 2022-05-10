@@ -1,0 +1,16 @@
+C:\Users\MohammadJohar\source\repos\JPMorganChaseTest\JPMorganChaseTest\bin\Debug\net5.0\JPMorganChaseTest.exe
+C:\Users\MohammadJohar\source\repos\JPMorganChaseTest\JPMorganChaseTest\bin\Debug\net5.0\JPMorganChaseTest.deps.json
+C:\Users\MohammadJohar\source\repos\JPMorganChaseTest\JPMorganChaseTest\bin\Debug\net5.0\JPMorganChaseTest.runtimeconfig.json
+C:\Users\MohammadJohar\source\repos\JPMorganChaseTest\JPMorganChaseTest\bin\Debug\net5.0\JPMorganChaseTest.runtimeconfig.dev.json
+C:\Users\MohammadJohar\source\repos\JPMorganChaseTest\JPMorganChaseTest\bin\Debug\net5.0\JPMorganChaseTest.dll
+C:\Users\MohammadJohar\source\repos\JPMorganChaseTest\JPMorganChaseTest\bin\Debug\net5.0\ref\JPMorganChaseTest.dll
+C:\Users\MohammadJohar\source\repos\JPMorganChaseTest\JPMorganChaseTest\bin\Debug\net5.0\JPMorganChaseTest.pdb
+C:\Users\MohammadJohar\source\repos\JPMorganChaseTest\JPMorganChaseTest\obj\Debug\net5.0\JPMorganChaseTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohammadJohar\source\repos\JPMorganChaseTest\JPMorganChaseTest\obj\Debug\net5.0\JPMorganChaseTest.AssemblyInfoInputs.cache
+C:\Users\MohammadJohar\source\repos\JPMorganChaseTest\JPMorganChaseTest\obj\Debug\net5.0\JPMorganChaseTest.AssemblyInfo.cs
+C:\Users\MohammadJohar\source\repos\JPMorganChaseTest\JPMorganChaseTest\obj\Debug\net5.0\JPMorganChaseTest.csproj.CoreCompileInputs.cache
+C:\Users\MohammadJohar\source\repos\JPMorganChaseTest\JPMorganChaseTest\obj\Debug\net5.0\JPMorganChaseTest.dll
+C:\Users\MohammadJohar\source\repos\JPMorganChaseTest\JPMorganChaseTest\obj\Debug\net5.0\ref\JPMorganChaseTest.dll
+C:\Users\MohammadJohar\source\repos\JPMorganChaseTest\JPMorganChaseTest\obj\Debug\net5.0\JPMorganChaseTest.pdb
+C:\Users\MohammadJohar\source\repos\JPMorganChaseTest\JPMorganChaseTest\obj\Debug\net5.0\JPMorganChaseTest.genruntimeconfig.cache
+C:\Users\MohammadJohar\source\repos\JPMorganChaseTest\JPMorganChaseTest\obj\Debug\net5.0\JPMorganChaseTest.csproj.AssemblyReference.cache
